@@ -1,3 +1,4 @@
+.DS_Store
 target
 dist
 #*#
@@ -5,12 +6,15 @@ dist
 *.log
 *.iws
 .idea
+*.iml
 out
 *.swp
 lib_managed
 project/boot
 project/build/target
-.DS_Store
+project/idea.properties
 project/plugins/project/
 project/plugins/src_managed/
+examples/scala/classes
 examples/classes
+sbt-launch.jar
